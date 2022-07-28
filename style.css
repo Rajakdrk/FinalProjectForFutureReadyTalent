@@ -1,6 +1,11 @@
+body{
+    border: 5px solid chocolate;
+}
+
 h1{
     text-align: center;
     color: chocolate;
+    padding-top: 20px;
 }
 
 .bot{
@@ -13,6 +18,5 @@ h1{
 
 .bot iframe{
     width: 70%;
-    
+    border: 3px solid coral;
 }
-
