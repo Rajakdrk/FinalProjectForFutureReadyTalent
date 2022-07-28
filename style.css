@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: chocolate;
+}
+
+.bot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+    padding-top: 20px;
+}
+
+.bot iframe{
+    width: 70%;
+    
+}
+
